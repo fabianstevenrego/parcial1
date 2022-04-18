@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding:0;
+    background:  linear-gradient(90deg,#ac5e57,rgb(196, 6, 6));
+}
+
+
+.p1{
+    color: #ffffff;
+    font-family: 'Fuente Serif 4', sans-serif;
+    font-size: 20px;
+    transform: skewY(5%);
+    margin-top:15px;
+    margin-bottom: 0;
+    margin-left: 35px;
+
+}
+ .p2{
+    color: #ffffff;
+    font-family: 'Fuente Serif 4', sans-serif;
+    font-size: 20px;
+    transform: skewY(5%);
+    margin-top: 15;
+    margin-bottom: 0;
+    margin-left: 35px;
+}
+    .logo{
+        margin: 300px 300px;
+    }
+
+    a{
+        font-size: 22px;
+        color: #ffffff;
+        text-decoration: none;
+        transition: all 0.45s;
+      }
+
+     
